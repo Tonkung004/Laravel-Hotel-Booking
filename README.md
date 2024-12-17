@@ -1,7 +1,3 @@
-<div align="center">
-    <h1>Hotel Booking System</h1>
-</div>
-
 # Laravel-Hotel-Booking
 
 > [!NOTE]  
